@@ -1,22 +1,23 @@
-### Hi there 👋, my name is Kaushal Patil
+<h2 align="center">
+ <b> 👋 Good to have you here!! <b>
+</h2>
 
-#### I am Full stack web developer and Data Science Enthusiast.
-![I am Full stack web developer and Data Science Enthusiast.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+###### 🌱 About myself
 
-✔️ I am Kaushal Patil, currently pursuing my Masters from IIMS Chinchwad, Pune in Master in Computer Application.
+✔️ Hi there 👋, My Name is Kaushal Patil , currently pursuing my Masters from IIMS Chinchwad, Pune in Master in Computer Application.
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming.
 
-✔️ I have experience in FULL stack web development.
+✔️ I have experience in FULL stack web development, Data Science and AI ML ,.
 
 ✔️ I have been the participant of open-source event such as HacktoberFest'21.
 
-Skills: 
-  🍵Java 
-  🐍 Python (Data Analytics) 
-  📱 React Native 
-  💻 HTML, CSS, JS 
-  💻C, Cpp 
+## Skills: 
+ - 🍵Java 
+ - 🐍 Python (Data Analytics) 
+ - 📱 React Native 
+ - 💻 HTML, CSS, JS 
+ - 💻C, Cpp 
 
 
 
