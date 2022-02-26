@@ -1,23 +1,25 @@
 <h2 align="center">
  <b> 👋 Good to have you here!! <b>
 </h2>
+  
 
-###### 🌱 About myself
+### 🌱 About myself
 
 ✔️ Hi there 👋, My Name is Kaushal Patil , currently pursuing my Masters from IIMS Chinchwad, Pune in Master in Computer Application.
 
 ✔️ I am interested in development and have contributed to some open-source organisations . I also enjoy doing competitive programming.
 
-✔️ I have experience in FULL stack web development, Data Science and AI ML ,.
+✔️ I have experience in Full stack web development, Data Science and AI ML.
 
 ✔️ I have been the participant of open-source event such as HacktoberFest'21.
 
 ## Skills: 
- - 🍵Java 
- - 🐍 Python (Data Analytics) 
- - 📱 React Native 
- - 💻 HTML, CSS, JS 
- - 💻C, Cpp 
+ - 🍵 Java, Spring
+ - 🐍 Python ( Data Analytics ) 
+ - 💻 HTML, CSS, JS, Bootstrap
+ - 📱 React Native
+ - 💻 C, Cpp 
+ - 🧑🏻‍💻 Dot Net , Visual Basic
   
 ## Github Badges
   
