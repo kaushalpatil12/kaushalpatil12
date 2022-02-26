@@ -30,10 +30,10 @@
 
 
 ## Github Stats :
+    
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kupatil&show_icons=true&theme=radical)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kupatil)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kupatil&show_icons=true&count_private=true)  
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kupatil&langs_count=5&theme=tokyonight)]()
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kupatil)  
 
