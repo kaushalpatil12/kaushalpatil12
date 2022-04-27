@@ -11,7 +11,7 @@
 
 ---
 
-<h3>I'm a college student and a front-end developer.</h3>
+<h3> 🧑🏻‍💻 I'm a college student and a front-end developer.</h3>
 
 - 🎓 Now I'm Pursuing Master Degree in **Computer Application** at **IIMS Chinchwad , Pune**. <br>
 - 👀 I’m interested in Artificial Intelligence, Data Science, Web Development and Programming.
