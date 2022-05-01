@@ -69,9 +69,8 @@
 
 ## Github Stats :
 
-![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=kupatil)
     
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kupatil&show_icons=true&theme=radical)
+![GitHub stats](	https://github-readme-stats.vercel.app/api?username=kupatil)
   
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kupatil&langs_count=5&theme=tokyonight)]()
 
