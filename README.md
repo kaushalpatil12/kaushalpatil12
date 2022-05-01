@@ -2,6 +2,7 @@
  	<a href="https://bio.link/kaushalp">Hi, I'm Kaushal Patil !</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  </h3>
+ 
 
 <h3 align="center">
  
@@ -23,17 +24,25 @@
 
 <h2> 🥞 Tech Stack</h2>
 <p align="center">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23e4626b.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img alt="React" src="https://img.shields.io/badge/react-%23f2ca61.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%23fca9ae.svg?style=for-the-badge&logo=tailwind-css&logoColor=140200"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23e4626b.svg?style=for-the-badge&logo=java&logoColor=140200"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%23fca9ae.svg?style=for-the-badge&logo=python&logoColor=140200"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23e4626b.svg?style=for-the-badge&logo=github&logoColor=140200"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-f2ca61.svg?style=for-the-badge&logo=visual-studio-code&logoColor=140200"/>
-<!-- <img alt="Figma" src="https://img.shields.io/badge/figma-%23ffd2ce.svg?style=for-the-badge&logo=figma&logoColor=140200" /> -->
-<img alt="Canva" src="https://img.shields.io/badge/Canva-f2ca61.svg?style=for-the-badge&logo=canva&logoColor=140200"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white "/>
+<img alt="CPP" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img alt="DotNet" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+<img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img alt="Adobexd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+<img alt="AdobeI" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+<img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+<img alt="Blogger" src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
 
 <!-- <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe after effects-%23fca9ae.svg?style=for-the-badge&logo=Adobe-after-effects&logoColor=140200" /> -->
   </p>
@@ -59,6 +68,8 @@
 
 
 ## Github Stats :
+
+![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=kupatil)
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kupatil&show_icons=true&theme=radical)
   
