@@ -1,12 +1,12 @@
 <h3 align="center">
- 	<a href="https://bio.link/kaushalp">Hi, I'm Kaushal Patil !</a>
+ 	<a  href="https://bio.link/kaushalp" >Hi, I'm Kaushal Patil ! </a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
  </h3>
  
 
 <h3 align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=07AFFF&center=true&vCenter=true&lines=MCA+%7C+Life-long+learner;Data+Science+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FF0000&center=true&vCenter=true&lines=MCA+%7C+Life-long+learner;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
 </h3>
 
