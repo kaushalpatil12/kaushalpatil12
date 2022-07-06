@@ -15,8 +15,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=kupatil" alt="kupatil" /></a> </p>
 
-<p align="left"> <a href="[https://twitter.com/sheikh_rasel143](https://www.linkedin.com/in/kaushal-patil-200a5a161/)" target="blank"><img src="https://img.shields.io/twitter/follow/kupatil122?logo=twitter&style=for-the-badge" alt="kupatil" /></a> </p> -->
-
+<p align="left"> <a href="[[https://twitter.com/sheikh_rasel143](https://twitter.com/kupatil122)](https://www.linkedin.com/in/kaushal-patil-200a5a161/)" target="blank"><img src="https://img.shields.io/twitter/follow/kupatil122?logo=twitter&style=for-the-badge" alt="kupatil" /></a> </p> -->
 
 <h2>🙋‍♂️ About Me</h2>
 
