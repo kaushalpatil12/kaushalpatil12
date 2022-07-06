@@ -7,7 +7,12 @@
 <img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
 
 <h1 align="center">Hi 👋, I'm Kaushal Patil</h1>
-<h3 align="center">Data Science || Machine Learning || Deep Learning || Artificial Intelligence Enthusiast from Pune </h3>
+
+<h3 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FFC903&center=true&vCenter=true&lines=MCA+%7C+Life-long+learner;Data+Science+Enthusiast)](https://git.io/typing-svg)
+
+</h3>
 
 <h3>❤ Views and Followers</h3>
 
