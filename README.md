@@ -1,28 +1,33 @@
-<h3 align="center">
- 	<a  href="https://bio.link/kaushalp" >Hi, I'm Kaushal Patil ! </a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- </h3>
- 
+<!-- <span>
+<img align="center" alt="Coding" width="100%" height="100%"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+</span> -->
+<!-- [![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)] -->
 
-<h3 align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=FF0000&center=true&vCenter=true&lines=MCA+%7C+Life-long+learner;Data+Science+Enthusiast)](https://git.io/typing-svg)
 
-</h3>
+<img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
+
+<h1 align="center">Hi 👋, I'm Kaushal Patil</h1>
+<h3 align="center">Data Science || Machine Learning || Deep Learning || Artificial Intelligence Enthusiast from Pune </h3>
 
 ---
 
-<h3> 🧑🏻‍💻 I'm a college student and a front-end developer.</h3>
+<h2>🙋‍♂️ About Me</h2>
 
-- 🎓 Now I'm Pursuing Master Degree in **Computer Application** at **IIMS Chinchwad , Pune**. <br>
-- 👀 I’m interested in Artificial Intelligence, Data Science, Web Development and Programming.
-- 💡 I am currently focusing on **Data Structures and Algorithm** in *Java* and **DevOps**. 
-- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+<h3> 🧑🏻‍💻 I'm a College Student and Data Analyst.</h3>
+
+- 🎓 Now I'm Pursuing Master Degree in **Computer Application [ MCA ]** at **IIMS Chinchwad , Pune**. <br>
+- 🌱 I’m currently learning **Data Analysis | DS | ML | DL | AI**
+- 👨‍💻 All of my projects are available at [Github Project](https://github.com/kupatil)
+- 📝 I regularly write articles on [Tricksskill](https://www.tricksskill.com/)
 - 📫 You can connect with me via this [link](https://bio.link/kaushalp) or by [Mail](mailto:kupatil122@gmail.com).
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/kaushal-patil-200a5a161/)
+- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+- ⚡ Fun fact I am always thinking about my dream job at Google but don't know when I'll reach them.
 
----
+</br>
 
 <h2> 🥞 Tech Stack</h2>
+
 <p align="center">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -48,15 +53,17 @@
   </p>
 <br>
 
----
 
-### 📙 Recent Blogs on Tricksskill
+<h2> 📙 Recent Blogs on Tricksskill </h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [8 Signs You Should Stay Off Social Media](https://www.tricksskill.com/8-signs-you-should-stay-off-social-media/)
 - [63 simple money-saving tips for everyday life](https://www.tricksskill.com/63-simple-money-saving-tips-for-everyday-life/)
 - [21 Signs You Are Not Very Attractive](https://www.tricksskill.com/21-signs-you-are-not-very-attractive/)
 - [10 things you shouldn’t expect from other people](https://www.tricksskill.com/10-things-you-shouldnt-expect-from-other-people/)
 - [15 ways – Earn money online seriously and quickly 💰](https://www.tricksskill.com/earn-money-online-seriously-and-quickly/)
+
+</br>
 
 ---
   
@@ -68,7 +75,6 @@
 
 
 ## Github Stats :
-
     
 ![GitHub stats](	https://github-readme-stats.vercel.app/api?username=kupatil)
   
