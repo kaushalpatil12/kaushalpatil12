@@ -4,7 +4,7 @@
 <!-- [![MasterHead](https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif)] -->
 
 
-<img align="right" mergin="0" alt="Coding"  src="https://i.gifer.com/origin/84/84d79f587caeee69caf306386ec3527d_w200.gif">
+
 
 <h1 align="center">Hi 👋, I'm Kaushal Patil</h1>
 
@@ -13,13 +13,6 @@
 
 </h3>
 
-<h3>❤ Views and Followers</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kupatil&label=Profile%20views&color=0e75b6&style=flat" alt="kupatil" /> <img src="https://img.shields.io/github/followers/kupatil?label=Followers&style=social" alt="kupatil" /></p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="70%" src="https://github-profile-trophy.vercel.app/?username=kupatil" alt="kupatil" /></a> </p>
-
-<p align="left"> <a href="[[https://twitter.com/sheikh_rasel143](https://twitter.com/kupatil122)](https://www.linkedin.com/in/kaushal-patil-200a5a161/)" target="blank"><img src="https://img.shields.io/twitter/follow/kupatil122?logo=twitter&style=for-the-badge" alt="kupatil" /></a> </p> -->
 
 <h2>🙋‍♂️ About Me</h2>
 
