@@ -76,7 +76,7 @@
 
 ## Github Stats :
     
-![GitHub stats](	https://github-readme-stats.vercel.app/api?username=kupatil)
+![GitHub stats](	https://github-readme-stats.vercel.app/api?username=kaushalpatil12)
   
 ---
 
